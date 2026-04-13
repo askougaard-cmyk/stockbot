@@ -1,2 +1,1 @@
-# stockbot
-Stockbot
+cd /workspaces/stockbot
